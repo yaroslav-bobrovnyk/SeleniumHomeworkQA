@@ -1,0 +1,122 @@
+2020-09-02 17:19:01,740 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-02 17:20:05,281 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-02 17:21:07,873 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-02 17:21:43,519 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-02 17:25:16,903 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-02 17:25:40,760 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-02 18:04:50,780 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-02 18:05:57,635 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-02 18:06:09,546 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-02 18:07:25,418 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-02 18:07:31,333 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-02 18:09:23,493 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 10:44:32,679 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 11:06:47,547 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 11:06:56,477 INFO c.c.p.PlayersPage [main] Was found [[[ChromeDriver: chrome on MAC (6ab260f429c66210223149091f8c30f3)] -> css selector: div#searchResults .player-card]] result matchingTiger
+2020-09-03 11:06:56,655 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 11:09:33,999 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 11:09:40,060 INFO c.c.p.PlayersPage [main] Was found 1 result matchingTiger
+2020-09-03 11:09:40,209 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 11:15:31,027 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 11:15:38,718 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 11:15:38,882 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 11:16:25,687 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 11:16:31,993 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 11:16:32,152 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 11:32:16,612 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 11:32:24,619 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 11:32:24,781 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 11:32:34,245 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 11:34:13,617 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 11:34:19,971 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 11:34:20,135 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 11:34:29,937 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 11:36:08,543 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-03 11:36:21,906 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 11:36:24,395 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-03 11:36:38,721 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 12:54:09,641 INFO f.WebFactory [main] Драйвер Safari поднят
+2020-09-03 12:54:19,626 INFO f.WebFactory [main] Драйвер Safari поднят
+2020-09-03 12:55:17,268 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 12:55:27,081 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 12:55:27,127 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 12:55:37,478 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 12:55:37,502 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 12:57:07,851 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 12:57:16,492 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 12:57:16,521 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 12:57:27,819 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 12:57:28,149 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-03 12:57:38,481 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 12:57:38,516 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-03 12:57:56,104 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 12:57:56,119 INFO f.WebFactory [main] Драйвер Safari поднят
+2020-09-03 12:58:02,415 INFO f.WebFactory [main] Драйвер Safari поднят
+2020-09-03 12:58:32,469 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 12:58:38,755 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 12:58:38,786 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 12:58:49,740 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 12:58:49,775 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-03 12:59:34,300 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 12:59:41,141 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 12:59:41,180 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 12:59:52,416 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 12:59:52,439 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-03 13:01:13,424 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:01:19,689 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 13:01:19,826 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:01:30,106 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 13:01:30,253 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:02:02,516 INFO f.WebFactory [main] Драйвер Safari поднят
+2020-09-03 13:02:10,264 INFO f.WebFactory [main] Драйвер Safari поднят
+2020-09-03 13:04:02,595 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:04:10,206 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 13:04:10,361 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:04:20,115 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 13:04:20,252 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-03 13:04:27,813 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 13:04:30,270 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-03 13:04:42,442 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 13:04:45,847 INFO f.WebFactory [main] Драйвер Safari поднят
+2020-09-03 13:05:06,599 INFO f.WebFactory [main] Драйвер Safari поднят
+2020-09-03 13:05:29,476 INFO f.WebFactory [main] Драйвер IE поднят
+2020-09-03 13:05:30,015 INFO f.WebFactory [main] Драйвер IE поднят
+2020-09-03 13:07:52,136 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:07:58,161 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:08:02,696 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-03 13:08:36,370 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:08:41,924 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:09:41,106 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:09:46,325 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:10:16,584 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:10:21,742 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:10:26,911 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-03 13:10:41,143 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:10:47,487 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 13:10:47,662 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:21:27,661 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:21:44,255 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:21:58,125 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:22:03,097 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:26:59,858 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:27:09,142 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 13:27:09,332 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 13:27:19,352 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 13:27:19,491 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-03 13:27:27,089 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 13:27:29,572 INFO f.WebFactory [main] Драйвер Firefox поднят
+2020-09-03 13:27:41,270 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 13:27:43,730 INFO f.WebFactory [main] Драйвер Safari поднят
+2020-09-03 13:27:49,632 INFO f.WebFactory [main] Драйвер Safari поднят
+2020-09-03 13:28:04,020 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 13:28:05,200 INFO f.WebFactory [main] Драйвер IE поднят
+2020-09-03 13:28:05,789 INFO f.WebFactory [main] Драйвер IE поднят
+2020-09-03 14:19:47,436 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 14:19:56,900 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 14:19:57,080 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 14:20:06,871 INFO c.c.p.PlayersPage [main] No result message is present
+2020-09-03 14:20:07,005 INFO f.WebFactory [main] Драйвер Chrome поднят
+2020-09-03 14:27:06,819 INFO f.WebFactory [main] Driver Safari was up
+2020-09-03 14:27:18,639 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-09-03 14:27:18,797 INFO f.WebFactory [main] Driver Safari was up
+2020-09-03 14:27:33,968 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
