@@ -35,7 +35,8 @@ public class MyPlayerSearchStepdefs {
     @Then("I should see the players with result matching {string}")
     public void iShouldSeeThePlayerAvatar(String playerName) {
         if (playersPage.playerCardSearchResult()){
-            playersPage.searchResult(playerName);
+            playersPage.jsonPathUsage(); //check that player card is present in the API file
+            playersPage.searchResult(playerName); //check that player card is present on the FE
         }else {
             playersPage.noResultMessageValidation();
         }

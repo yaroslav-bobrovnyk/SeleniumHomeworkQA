@@ -120,3 +120,206 @@
 2020-09-03 14:27:18,639 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
 2020-09-03 14:27:18,797 INFO f.WebFactory [main] Driver Safari was up
 2020-09-03 14:27:33,968 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 16:34:42,393 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 16:35:14,053 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 16:35:35,787 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 16:35:37,689 INFO f.WebFactory [main] Driver Firefox was up
+2020-10-02 16:35:49,847 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 16:35:50,519 INFO f.WebFactory [main] Driver Firefox was up
+2020-10-02 16:36:06,754 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 16:37:19,701 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 16:37:39,056 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 16:37:39,430 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 16:38:06,456 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 16:38:47,088 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 16:39:07,959 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 16:39:08,147 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 16:39:29,822 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 16:39:30,003 INFO f.WebFactory [main] Driver Firefox was up
+2020-10-02 16:55:02,026 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 16:55:19,344 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 16:55:23,306 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 17:16:14,111 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 17:16:35,039 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 17:16:39,078 INFO c.c.p.PlayersPage [main] TIGER WOODS
+2020-10-02 17:16:39,462 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 17:36:53,305 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 17:37:15,969 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 17:37:28,044 INFO c.c.p.PlayersPage [main] TIGER WOODS
+2020-10-02 17:37:28,393 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 17:37:55,313 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 17:38:03,308 INFO f.WebFactory [main] Driver Firefox was up
+2020-10-02 17:38:19,657 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 17:38:20,364 INFO f.WebFactory [main] Driver Firefox was up
+2020-10-02 17:38:36,407 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 17:38:37,081 INFO f.WebFactory [main] Driver Safari was up
+2020-10-02 17:38:46,079 INFO f.WebFactory [main] Driver Safari was up
+2020-10-02 17:40:51,250 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 17:41:09,191 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 17:41:13,175 INFO c.c.p.PlayersPage [main] TIGER WOODS
+2020-10-02 17:41:13,527 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 17:41:38,538 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 17:41:45,336 INFO f.WebFactory [main] Driver Firefox was up
+2020-10-02 17:41:57,955 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 17:41:58,587 INFO f.WebFactory [main] Driver Firefox was up
+2020-10-02 17:42:14,081 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 17:42:16,261 INFO f.WebFactory [main] Driver Safari was up
+2020-10-02 17:43:09,281 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 17:43:30,779 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 17:43:34,888 INFO c.c.p.PlayersPage [main] TIGER WOODS
+2020-10-02 17:43:35,161 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 17:44:02,064 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 17:44:08,786 INFO f.WebFactory [main] Driver Firefox was up
+2020-10-02 17:44:21,224 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 17:44:21,862 INFO f.WebFactory [main] Driver Firefox was up
+2020-10-02 17:44:47,129 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 17:44:47,937 INFO f.WebFactory [main] Driver Safari was up
+2020-10-02 17:44:56,721 INFO f.WebFactory [main] Driver Safari was up
+2020-10-02 17:45:03,201 INFO f.WebFactory [main] Driver IE was up
+2020-10-02 17:45:03,670 INFO f.WebFactory [main] Driver IE was up
+2020-10-02 17:47:14,293 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 17:47:35,566 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 17:47:36,010 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 17:48:01,370 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 17:49:08,329 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 17:49:32,973 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 17:49:33,353 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 17:50:01,096 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 17:50:53,441 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 17:51:12,073 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 17:51:15,797 INFO c.c.p.PlayersPage [main] TIGER WOODS
+2020-10-02 17:51:16,020 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 17:51:43,315 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 17:51:43,500 INFO f.WebFactory [main] Driver Firefox was up
+2020-10-02 17:51:55,812 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 17:51:57,376 INFO c.c.p.PlayersPage [main] TIGER WOODS
+2020-10-02 17:51:58,065 INFO f.WebFactory [main] Driver Firefox was up
+2020-10-02 17:52:13,846 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 17:52:14,508 INFO f.WebFactory [main] Driver Safari was up
+2020-10-02 17:52:19,861 INFO f.WebFactory [main] Driver Safari was up
+2020-10-02 17:52:27,208 INFO f.WebFactory [main] Driver IE was up
+2020-10-02 17:52:27,729 INFO f.WebFactory [main] Driver IE was up
+2020-10-02 17:55:08,717 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 17:55:36,578 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 17:56:05,244 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 17:57:44,469 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 17:58:04,764 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 17:58:05,186 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 17:58:32,190 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 18:02:23,043 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 18:03:24,509 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 18:03:49,314 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 18:03:49,683 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 18:04:15,210 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 18:10:37,900 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 18:10:57,367 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 18:10:57,726 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 18:11:23,359 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 18:11:36,695 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 18:11:58,110 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 18:11:58,325 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 18:12:19,808 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 18:19:36,559 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 18:19:55,989 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 18:19:56,196 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 18:20:21,131 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 18:25:37,101 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 18:26:00,967 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 18:26:01,395 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 18:26:24,013 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 19:57:29,109 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 19:57:47,832 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 19:57:48,016 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 19:59:55,120 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 20:00:24,130 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 20:00:53,166 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 20:19:53,577 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 20:20:17,743 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 20:20:42,611 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 20:21:05,614 INFO f.WebFactory [main] Driver Firefox was up
+2020-10-02 20:21:16,689 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 20:21:17,435 INFO f.WebFactory [main] Driver Firefox was up
+2020-10-02 20:21:37,416 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 20:22:00,265 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 20:22:03,226 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 20:23:15,945 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 20:23:38,011 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 20:23:41,086 INFO c.c.p.PlayersPage [main] [[ChromeDriver: chrome on MAC (ab018339d6d9b1f6525b9ea77366076b)] -> css selector: div#searchResults .hidden-small .player-firstname] [[ChromeDriver: chrome on MAC (ab018339d6d9b1f6525b9ea77366076b)] -> css selector: div#searchResults .hidden-small .player-surname]
+2020-10-02 20:23:41,387 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 20:25:08,770 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 20:25:32,143 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 20:25:34,862 INFO c.c.p.PlayersPage [main] [[ChromeDriver: chrome on MAC (35469547aa072c0393e0dcdfec13599e)] -> css selector: div#searchResults .hidden-small .player-firstname]
+2020-10-02 20:25:34,872 INFO c.c.p.PlayersPage [main] [[ChromeDriver: chrome on MAC (35469547aa072c0393e0dcdfec13599e)] -> css selector: div#searchResults .hidden-small .player-surname]
+2020-10-02 20:25:34,897 INFO c.c.p.PlayersPage [main] [[ChromeDriver: chrome on MAC (35469547aa072c0393e0dcdfec13599e)] -> css selector: div#searchResults .hidden-small .player-firstname] [[ChromeDriver: chrome on MAC (35469547aa072c0393e0dcdfec13599e)] -> css selector: div#searchResults .hidden-small .player-surname]
+2020-10-02 20:25:35,230 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 20:25:56,768 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 20:25:58,111 INFO c.c.p.PlayersPage [main] Proxy element for: DefaultElementLocator 'By.cssSelector: div#searchResults .hidden-small .player-firstname'
+2020-10-02 20:26:03,138 INFO c.c.p.PlayersPage [main] Proxy element for: DefaultElementLocator 'By.cssSelector: div#searchResults .hidden-small .player-surname'
+2020-10-02 20:26:18,185 INFO c.c.p.PlayersPage [main] Proxy element for: DefaultElementLocator 'By.cssSelector: div#searchResults .hidden-small .player-firstname' Proxy element for: DefaultElementLocator 'By.cssSelector: div#searchResults .hidden-small .player-surname'
+2020-10-02 20:26:18,469 INFO f.WebFactory [main] Driver Firefox was up
+2020-10-02 20:27:41,137 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 20:27:52,349 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 20:28:14,775 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 20:28:18,167 INFO c.c.p.PlayersPage [main] TIGER WOODS
+2020-10-02 20:28:18,345 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 20:28:44,878 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 20:28:51,499 INFO f.WebFactory [main] Driver Firefox was up
+2020-10-02 20:29:03,774 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 20:29:04,537 INFO f.WebFactory [main] Driver Firefox was up
+2020-10-02 20:29:21,303 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 20:29:21,930 INFO f.WebFactory [main] Driver Safari was up
+2020-10-02 20:30:11,425 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 20:30:36,485 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 20:31:02,320 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 20:36:22,563 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 20:36:31,220 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 20:36:56,544 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 20:37:22,775 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 20:42:11,617 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 20:42:40,050 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 20:43:11,896 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 20:50:06,368 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 20:50:33,989 INFO c.c.p.PlayersPage [main] TIGER WOODS
+2020-10-02 20:50:34,005 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 20:50:34,245 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 20:51:42,540 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 20:52:07,320 INFO c.c.p.PlayersPage [main] TIGER WOODS
+2020-10-02 20:52:07,339 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 20:52:07,566 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 20:52:30,999 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 22:47:20,413 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 22:47:48,819 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 22:48:12,691 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 22:49:26,026 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 22:49:51,238 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 22:50:14,544 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 22:55:46,022 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 22:56:17,765 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 22:56:42,948 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 23:07:38,986 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 23:08:05,474 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 23:08:27,690 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 23:08:29,107 INFO f.WebFactory [main] Driver Firefox was up
+2020-10-02 23:08:52,094 INFO c.c.p.PlayersPage [main] TIGER WOODS
+2020-10-02 23:08:52,125 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 23:08:52,706 INFO f.WebFactory [main] Driver Firefox was up
+2020-10-02 23:09:07,717 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 23:09:08,236 INFO f.WebFactory [main] Driver Safari was up
+2020-10-02 23:09:15,356 INFO f.WebFactory [main] Driver Safari was up
+2020-10-02 23:09:22,005 INFO f.WebFactory [main] Driver IE was up
+2020-10-02 23:09:22,749 INFO f.WebFactory [main] Driver IE was up
+2020-10-02 23:11:30,449 INFO f.WebFactory [main] Driver Firefox was up
+2020-10-02 23:11:47,967 INFO c.c.p.PlayersPage [main] TIGER WOODS
+2020-10-02 23:11:47,979 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 23:11:48,637 INFO f.WebFactory [main] Driver Firefox was up
+2020-10-02 23:12:05,249 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 23:17:05,619 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 23:17:33,995 INFO c.c.p.PlayersPage [main] TIGER WOODS
+2020-10-02 23:17:34,010 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 23:17:34,211 INFO f.WebFactory [main] Driver Chrome was up
+2020-10-02 23:18:01,004 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
+2020-10-02 23:18:01,195 INFO f.WebFactory [main] Driver Firefox was up
+2020-10-02 23:18:18,315 INFO c.c.p.PlayersPage [main] TIGER WOODS
+2020-10-02 23:18:18,323 INFO c.c.p.PlayersPage [main] Was found 1 result matching Tiger
+2020-10-02 23:18:18,871 INFO f.WebFactory [main] Driver Firefox was up
+2020-10-02 23:18:37,370 INFO c.c.p.PlayersPage [main] 'No result' message is displayed
